@@ -1,0 +1,4 @@
+stu001,Ahana,20,ahana20@gmail.com
+stu002,Naksh,23,naksh123@gmail.com
+stu003,Riddhi,21,riddhiraj21@gmail.com
+stu004,Karthik,24,karthik45@gmail.com
