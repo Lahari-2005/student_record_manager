@@ -40,8 +40,8 @@ This project is designed to strengthen the understanding of Python fundamentals 
 Student_Record_Manager/
 │
 ├── screenshots/
-│   ├── Add_Student.png
-│   └── View_Students.png
+│   ├── add_Student.png
+│   └── view_Students.png
 │
 ├── student_manager.py
 ├── students.txt
@@ -84,13 +84,13 @@ Displays all stored student records in a clean and readable format.
 ```text
 Student Records
 =============================================
-Student ID : 101
-Name       : Lahari
+Student ID : stu001
+Name       : Swara
 Age        : 20
-Email      : lahari@gmail.com
+Email      : swara21@gmail.com
 _____________________________________________
 
-Student ID : 102
+Student ID : stu102
 Name       : Rahul
 Age        : 21
 Email      : rahul@gmail.com
@@ -103,7 +103,7 @@ _____________________________________________
 
 | ➕ Add Student                               | 📋 View Student Records                         |
 | ------------------------------------------- | ----------------------------------------------- |
-| ![Add Student](screenshots/Add_Student.png) | ![View Students](screenshots/View_Students.png) |
+| ![Add Student](screenshots/add_Student.png) | ![View Students](screenshots/view_Students.png) |
 
 ---
 
@@ -124,8 +124,8 @@ StudentID,Name,Age,Email
 Example:
 
 ```text
-101,Lahari,20,lahari@gmail.com
-102,Rahul,21,rahul@gmail.com
+stu001,Swara,20,swara21@gmail.com
+stu002,Rahul,21,rahul@gmail.com
 ```
 
 ---
