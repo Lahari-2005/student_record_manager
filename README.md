@@ -40,8 +40,8 @@ This project is designed to strengthen the understanding of Python fundamentals 
 Student_Record_Manager/
 │
 ├── screenshots/
-│   ├── add_Student.png
-│   └── view_Students.png
+│   ├── add_student.png
+│   └── view_students.png
 │
 ├── student_manager.py
 ├── students.txt
