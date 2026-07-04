@@ -103,7 +103,7 @@ _____________________________________________
 
 | ➕ Add Student                               | 📋 View Student Records                         |
 | ------------------------------------------- | ----------------------------------------------- |
-| ![Add Student](screenshots/add_Student.png) | ![View Students](screenshots/view_Students.png) |
+| ![Add Student](screenshots/add_student.png) | ![View Students](screenshots/view_students.png) |
 
 ---
 
@@ -159,18 +159,6 @@ This project demonstrates the implementation of:
 
 ---
 
-# 🚀 Future Enhancements
-
-* 🔍 Search Student by ID or Name
-* ✏️ Update Student Records
-* 🗑️ Delete Student Records
-* 📊 Display Total Number of Students
-* 📄 Export Records to CSV
-* 🗃️ Store Data in SQLite Database
-* 🖥️ Develop a GUI using Tkinter
-* 🌐 Develop a Web-Based Version using Django
-
----
 
 # 👩‍💻 Author
 
