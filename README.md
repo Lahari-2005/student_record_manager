@@ -162,7 +162,7 @@ This project demonstrates the implementation of:
 
 # 👩‍💻 Author
 
-**Lakshmi Lahari**
+**Lakshmi Lahari Dasari**
 
 
 ---
